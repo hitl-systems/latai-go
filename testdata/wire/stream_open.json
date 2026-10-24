@@ -1,0 +1,1 @@
+{"pack":"asr","format":"wav","language":"en","output":{"keywords":["latai"]},"window_seconds":20,"hop_ms":500,"pause_ms":700,"silence_peak":32,"max_seconds":3600,"then":{"pack":"agent"}}

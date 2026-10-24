@@ -1,0 +1,1 @@
+{"pack":"demo","inputs":{"type":"audio","data":"AAAAAAAA","format":"pcm16"},"stream":false,"deadline_ms":20000,"then":{"pack":"agent","system":"Turn the request into a call.","tools":[{"type":"function","function":{"name":"lights","parameters":{"type":"object","properties":{"on":{"type":"boolean"}}}}}],"output":{"max_tokens":64}}}

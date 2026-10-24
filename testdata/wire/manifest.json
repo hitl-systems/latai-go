@@ -1,0 +1,1 @@
+{"io":{"inputs":"messages","output":{"kind":"text","wrap":{"open":"<c>","close":"</c>"}}},"limits":{"kv_formula":{"layers":[{"count":2,"k":64,"v":64,"scales":0}],"state":[]},"max_new_tokens":128},"resources":{},"sampler":"greedy"}

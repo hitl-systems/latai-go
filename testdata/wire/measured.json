@@ -1,0 +1,1 @@
+{"params":121021910,"file_bytes":35335380,"n_ctx_train":4096,"n_embd":768,"n_ctx":3456,"kv_bytes_per_pos":2944,"kv_bytes":10174464,"encoder_only":false,"load_ms":12.5}

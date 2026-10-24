@@ -1,0 +1,1 @@
+{"pack":"demo","inputs":{"type":"audio","data":"AAAAAAAA","format":"pcm16","sample_rate":16000,"language":"en","prompt":"Names: ","outputs":["timestamps","language"]},"output":{"keywords":["Zoltan","latai"],"keyword_boost":4.5},"stream":false}

@@ -1,0 +1,1 @@
+{"pack":"demo","inputs":{"type":"messages","messages":[{"role":"user","content":"turn the lights on"}],"tools":[{"type":"function","function":{"name":"lights","description":"turn lights on or off","parameters":{"type":"object"}}}]},"output":{"depth":4,"tools_top_k":2},"stream":false}

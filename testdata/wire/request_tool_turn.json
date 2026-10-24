@@ -1,0 +1,1 @@
+{"pack":"demo","inputs":{"type":"messages","messages":[{"role":"user","content":"Grüße \"q\" \\ \n\t 日本 😀 \u0001","name":"ué"},{"role":"assistant","content":"","tool_calls":[{"id":"c1","name":"get_weather","arguments":{"city":"Oslo"}}]},{"role":"tool","content":"{\"temp\":4}","tool_call_id":"c1"}]},"output":{"tool_choice":"required"},"stream":false}

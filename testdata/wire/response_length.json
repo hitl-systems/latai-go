@@ -1,0 +1,1 @@
+{"output":{"kind":"text","text":"cut"},"finish":"length","prompt_truncated":false,"latai":{"digest":"e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855","timing":{"load_ms":0.0,"queue_ms":0.25,"prefill_ms":12.5,"prompt_tokens":21,"decode_ms":90.0,"gen_tokens":30,"per_token_ms":3.0,"total_ms":103.0}}}
