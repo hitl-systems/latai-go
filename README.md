@@ -11,7 +11,7 @@ go run github.com/hitl-systems/latai-go/cmd/latai-core   # once: fetch and check
 ```
 
 `latai-core` downloads the core archive pinned in [`core-pins.json`](core-pins.json) for your
-platform (Linux, macOS and Windows on x86-64 and arm64), checks its size and sha256 and every file
+platform (this release pins one: Linux x86_64, glibc 2.28 or newer; macOS, Windows and arm64 follow), checks its size and sha256 and every file
 inside against its `core.json`, and unpacks it into the user cache. `latai.EnsureCore(ctx)` does the
 same from your program. Set `LATAI_LIB` to use a core you put elsewhere.
 
